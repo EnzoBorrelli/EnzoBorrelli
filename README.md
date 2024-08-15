@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Enzo G. Borrelli Alfonzo</h1>
+<h1 align="center">Hi 👋, I'm Endy</h1>
 <h3 align="center">FrontEnd Developer from Buenos Aires, Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enzoborrelli&label=Profile%20views&color=0e75b6&style=flat" alt="enzoborrelli" /> </p>
@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Next.js, TypeScript & BackEnd Dev**
 
-- You can see My portfolio: [Go to --->](https://www.enzoborrelli.com.ar/)
+- You can see my work on [My Portfolio](https://www.enzoborrelli.com.ar/)
 
-- One of my previous works [EM-ROBOTS ecommerce](https://emrobots-virtualshop.netlify.app/)
+- One of my previous works is [EM-ROBOTS ecommerce](https://emrobots-virtualshop.netlify.app/)
 
 - 📫 Reach me On **enzoborrelli_official@outlook.com**
 
